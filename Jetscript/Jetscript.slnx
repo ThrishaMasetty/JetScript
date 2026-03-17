@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Jetscript/Jetscript.csproj" />
+  <Project Path="JetScriptAccount/JetScriptAccount.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@Jetscript_HostAddress = http://localhost:5051
+
+GET {{Jetscript_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
