@@ -7,6 +7,7 @@ namespace JetScriptAccount.Models
     public class Transaction
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int transaction_id { get; set; }
 
         public int account_id { get; set; }
